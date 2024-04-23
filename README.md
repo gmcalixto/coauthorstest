@@ -14,3 +14,5 @@ Co-authored-by: user1 <e-mail_user_2>"
   
 
    - Estamos testando a Co-Autoria do Projeto
+
+    - Outra alteração
